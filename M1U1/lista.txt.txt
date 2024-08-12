@@ -1,3 +1,5 @@
 galletas
 yerba
 jabón
+pan 
+leche
