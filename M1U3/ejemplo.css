@@ -1,0 +1,44 @@
+h1 {
+    /*esto es un comentario en css*/
+    color: aqua;
+    /*color de tipo*/
+    background-color: violet;
+    /*fondo de color*/
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+}
+
+p {
+    font-style: italic;
+    font: size 20px;
+    color: brown;
+}
+
+.destacado {
+    color: palevioletred;
+
+
+}
+
+.destacar {
+    color: blue;
+
+}
+
+#caja {
+    background-color: yellowgreen;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+
+
+}
+
+#caja h2 {
+    color: fuchsia;
+}
